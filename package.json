@@ -1,0 +1,23 @@
+{
+  "name": "challenge2-eurekalabs",
+  "version": "1.0.0",
+  "description": "Backend challenge given by eurekalabs.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierpugliese/challenge2-eurekalabs.git"
+  },
+  "author": "Javier Pugliese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javierpugliese/challenge2-eurekalabs/issues"
+  },
+  "homepage": "https://github.com/javierpugliese/challenge2-eurekalabs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
